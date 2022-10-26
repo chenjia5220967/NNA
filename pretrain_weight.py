@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 24 09:39:49 2018
-
-@author: Mou
-"""
-
 import torch
 from torch.nn import Module, Sequential, Linear, LeakyReLU, Sigmoid
 from torch.nn import MSELoss
