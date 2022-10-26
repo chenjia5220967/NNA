@@ -1,10 +1,3 @@
-﻿# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 23 20:57:41 2018
-
-@author: Mou
-"""
-
 import os
 import scipy.io as sio
 import numpy as np
@@ -22,8 +15,8 @@ from pretrain_weight import pretrain_weight, pretrain_dec_nonlipart
 from utils.ProgressBar import ProgressBar
 
 
-model_name = 'mlaem_model'
-workspace = 'D:\\坚果云\\我的坚果云\\我的坚果云\\代码\\解混代码\\NAE-main\\NAE-main\\AE_HSU_M1'
+model_name = 'nna_model'
+workspace = 'D:\\坚果云\\我的坚果云\\我的坚果云\\代码\\解混代码\\'
 
 
 GPU_NUMS = 1
