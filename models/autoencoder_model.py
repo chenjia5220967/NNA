@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 23 20:28:55 2018
-
-@author: Mou
-"""
 
 from torch.nn import Module, Sequential, Linear, Conv2d, LeakyReLU, Sigmoid, MaxPool2d, ConvTranspose2d
     
